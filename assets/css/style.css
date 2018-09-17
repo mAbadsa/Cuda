@@ -489,7 +489,7 @@ body
 }
 .formContact textarea
 {
-    
+    resize: none;
     grid-column: 1/5;
     padding: 22px;
     border: none;
